@@ -1,3 +1,5 @@
+/* (C) 2024 YourCompanyName */
+/* (C) 2024 Your Name */
 package array;
 
 import java.math.BigInteger;
@@ -34,6 +36,7 @@ public class AddToArrayFormOfInteger {
   }
 
   public List<Integer> addToArrayForm(int[] A, int K) {
+	System.out.println("addToArrayForm");
     StringBuilder sb = new StringBuilder();
     for (int a : A) {
       sb.append(a);
