@@ -1,4 +1,5 @@
-/* (C) 2024 YourCompanyName */
+/* (C) 2023 Your Name */
+/* (C) 2023 Company Name */
 package array;
 
 import java.util.*;
