@@ -1,6 +1,5 @@
 /* (C) 2025 YourCompanyName */
 /* (C) 2025 Your Name */
-/* (C) 2025 Company Name */
 package array;
 
 import java.math.BigInteger;
