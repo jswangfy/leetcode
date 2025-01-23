@@ -1,5 +1,5 @@
-/* (C) 2026 Your Name */
-/* (C) 2026 Company Name */
+/* (C) 2020 Your Name */
+/* (C) 2020 Company Name */
 
 package array;
 
