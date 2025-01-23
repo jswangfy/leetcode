@@ -1,5 +1,5 @@
-/* (C) 2025 YourCompanyName */
-/* (C) 2025 Your Name */
+/* (C) 2024 YourCompanyName */
+/* (C) 2024 Your Name */
 package array;
 
 import java.math.BigInteger;
