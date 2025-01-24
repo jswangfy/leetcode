@@ -1,6 +1,6 @@
-/* (C) 2020 Your Name */
-/* (C) 2020 Company Name */
-/* (C) 2020 Your Name */
+/* (C) develop 2020 Your Name */
+/* (C) develop 2020 Company Name */
+/* (C) develop 2020 Your Name */
 package array;
 
 import java.math.BigInteger;
