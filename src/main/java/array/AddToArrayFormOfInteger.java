@@ -32,6 +32,7 @@ import java.util.*;
  */
 public class AddToArrayFormOfInteger {
   public static void main(String[] args) {
+	System.out.println("Stash 2");
     //
   }
 
