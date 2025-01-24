@@ -1,4 +1,4 @@
-/* (C) 2020 YourCompanyName */
+/* (C) feature 2020 YourCompanyName */
 package array;
 
 import java.util.*;
