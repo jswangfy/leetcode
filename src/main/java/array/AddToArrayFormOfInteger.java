@@ -1,6 +1,6 @@
-/* (C) feature 2021 Your Name */
-/* (C) feature 2021 Company Name */
-/* (C) feature 2021 Your Name */
+/* (C) feature 2025 Your Name */
+/* (C) feature 2025 Company Name */
+/* (C) feature 2025 Your Name */
 package array;
 
 import java.math.BigInteger;
