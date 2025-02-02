@@ -1,5 +1,6 @@
-/* (C) feature 2020 Your Name */
-/* (C) 2020 Company Name */
+/* (C) feature 2026 Your Name */
+/* (C) feature 2026 Company Name */
+/* (C) feature 2026 Your Name */
 package array;
 
 import java.util.*;
